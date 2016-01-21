@@ -1,0 +1,17 @@
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\bin\Debug\WpfApp.age.calculator.exe.config
+C:\dev\github\WpfApp.change.calculator\WpfApp.age.calculator\bin\Debug\WpfApp.age.calculator.exe.config
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\bin\Debug\WpfApp.age.calculator.exe
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\bin\Debug\WpfApp.age.calculator.pdb
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.csprojResolveAssemblyReference.cache
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\MainWindow.g.cs
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\App.g.cs
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator_MarkupCompile.cache
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator_MarkupCompile.lref
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\MainWindow.baml
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.g.resources
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.Properties.Resources.resources
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.csproj.GenerateResource.Cache
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.exe
+C:\dev\github\WpfApp.age.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.pdb
+C:\dev\github\WpfApp.change.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.exe
+C:\dev\github\WpfApp.change.calculator\WpfApp.age.calculator\obj\Debug\WpfApp.age.calculator.pdb
